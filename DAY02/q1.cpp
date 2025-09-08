@@ -14,5 +14,6 @@ int main(){
     else{
         cout<<a<<" is zero";
     }
+    cout<<"";
 return 0;
 }
